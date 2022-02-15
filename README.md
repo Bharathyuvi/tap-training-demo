@@ -2,7 +2,7 @@
 Detail working of github
 
 
-learnt about vcs
-types of vcs
-difference between git and github
-difference between centralized and distributed vsc
+5.learnt about vcs
+6.types of vcs
+7.difference between git and github
+8.difference between centralized and distributed vsc
